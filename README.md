@@ -2,13 +2,13 @@ Use this global npm package to create a starter file for working with Typescript
 
 Open an EMPTY folder and...
 
-Type this command in the terminal:
+Type this command in the terminal after you globally install the package:
 
+**create-ts-node-starter-by-captain-jack**
 
-and then: npm i
+and then type: **npm i**
 
 And that is it! Your are ready to go :)
-
 
 Explanation:
 

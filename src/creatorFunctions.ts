@@ -60,7 +60,7 @@ export async function createStarterTSNode() {
     try {
         const path = './tsconfig.json'
 
-        await fs.writeFile(path, JSON.stringify(tsconfigfileContent))
+        await fs.writeFile(path, JSON.stringify(tsconfigfileContent, null, 4))
     }
     catch(err: any) {
         console.log(err)
@@ -78,7 +78,7 @@ export async function createStarterPackageJson() {
     try {
         const path = './package.json'
 
-        await fs.writeFile(path, JSON.stringify(packageJsonFileContent))
+        await fs.writeFile(path, JSON.stringify(packageJsonFileContent, null, 4))
     }
     catch(err: any) {
         console.log(err)
