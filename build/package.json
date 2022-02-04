@@ -1,0 +1,15 @@
+{
+    "name": "typescript-for-nodejs-template-by-captain-jack",
+    "version": "1.0.15",
+    "description": "Fast and Easy starter files to immediately work with TS in Nodejs",
+    "scripts": {
+      "start": "node app"
+    },
+    "keywords": ["starter-code", "typescript", "Nodejs", "Node", "bootcamp","developer"],
+    "author": "Jack Amsterdam",
+    "license": "ISC",
+    "bin": {
+      "create-ts-node-starter-by-captain-jack": "./app.js"
+    }
+  }
+  
