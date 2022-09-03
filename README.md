@@ -5,9 +5,12 @@
 
 Use this global npm package to create a starter file for working with Typescript in Nodejs.
 
+Open your terminal and install my package globally: 
+npm i -g typescript-for-nodejs-template-by-captain-jack
+
 Open an EMPTY folder and...
 
-Type this command in the terminal after you globally install the package:
+Type this command in the terminal after you globally installed the package:
 
 **create-ts-node-starter-by-captain-jack**
 
@@ -41,9 +44,11 @@ https://www.linkedin.com/in/jack-amsterdam/
 
 https://github.com/jackamsterdam
 
+https://www.npmjs.com/~jackamsterdam
+
 https://hub.docker.com/u/jackamsterdam
 
 https://wakatime.com/@jackamsterdam
 
-https://www.npmjs.com/~jackamsterdam
+
 
