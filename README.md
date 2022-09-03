@@ -1,3 +1,8 @@
+# Package that I made and uploaded to NPM: 
+## This is mainly a template that I made to start a new TypeScript session.
+## Please contact me if you used my template and enjoyed it - Linkedin: **https://www.linkedin.com/in/jack-amsterdam/**
+### IF you are interested in a template with React or Angular, then please see my other templates.
+
 Use this global npm package to create a starter file for working with Typescript in Nodejs.
 
 Open an EMPTY folder and...
@@ -28,6 +33,17 @@ Thanks for using,
 
 Jack Amsterdam
 
-Follow me on Github:
+## Jack's info:
+
+Please follow and check out my info:
+
+https://www.linkedin.com/in/jack-amsterdam/
 
 https://github.com/jackamsterdam
+
+https://hub.docker.com/u/jackamsterdam
+
+https://wakatime.com/@jackamsterdam
+
+https://www.npmjs.com/~jackamsterdam
+
