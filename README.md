@@ -1,5 +1,5 @@
-# Package that I made and uploaded to NPM: 
-## This is mainly a template that I made to start a new TypeScript session.
+# Package that I made and published in NPM: 
+## This is mainly a template that I made to start a new TypeScript session using a npm package and one command to create all files.
 ## Please contact me if you used my template and enjoyed it - Linkedin: **https://www.linkedin.com/in/jack-amsterdam/**
 ### If you are interested in a template with React or Angular, then please see my other templates.
 
